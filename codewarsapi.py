@@ -1,5 +1,6 @@
 import json
 import requests
+
 API_TOKEN = "?access_key=V93QtNVwDczdWg24u29"
 URL = "https://www.codewars.com/api/v1/users/"
 
